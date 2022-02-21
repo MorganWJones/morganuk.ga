@@ -26,8 +26,8 @@
   }
 
   .search {
+    width: 50%;
     max-width: 630px;
-    min-width: 400px;
   }
 
   .search input {
